@@ -1,0 +1,63 @@
+# Agent Framework
+
+hello-agents[all]>=0.2.7
+
+
+# LLM
+
+openai>=1.30.0
+
+
+# Environment
+
+python-dotenv>=1.0.0
+
+
+# Paper Search
+
+arxiv>=2.1.0
+
+semanticscholar>=0.5.0
+
+
+
+# RAG
+
+langchain>=0.2.0
+
+chromadb>=0.5.0
+
+sentence-transformers>=3.0.0
+
+
+
+# Data Processing
+
+pandas>=2.0.0
+
+numpy>=1.26.0
+
+
+
+# Notebook
+
+jupyter>=1.0.0
+
+ipykernel>=6.29.0
+
+
+
+# Visualization
+
+matplotlib>=3.8.0
+
+networkx>=3.2
+
+# Progress bar for displaying processing status
+tqdm>=4.68.4
+
+# For automatic translation of Chinese keywords to English
+deep-translator>=1.11.4
+
+#HTTP client for API requests and web access
+requests>=2.31.0
